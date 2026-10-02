@@ -1,0 +1,10 @@
+{
+  "name": "devops-lab",
+  "version": "1.0.0",
+  "description": "Base-level DevOps lab application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node --test"
+  }
+}
